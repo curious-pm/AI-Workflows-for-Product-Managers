@@ -12,17 +12,28 @@
 
 # Pro-Tip to Learn from Session
 
-- Don't focus on Prompts, but the Possibilities
+- Don't focus on Prompts, but the Unlimited Possibilities
 - Ask or Share anything you know in Chat
 - 👍 or 👎 during session as feedback
+
+---
+
+## On scale of 1 to 10, how integrated is AI in your Professional Workflow?
+
+---
+
+# AI in Work
+
+- No workflow is untested
+- ChatGPT < Gemini < Claude3
+- Get a Pro Version if you are Working Professional
 
 ---
 
 # Intro
 
 - Good as Starting Point for Work, will never replace humans.
-- The nature of work will change.
-- Improved productivity by 40%
+- The nature of work will change, productivity improved by 40%.
 - Work won't reduce for Individuals, the quality of Output will Improve with better Efficiency (Time, Resources etc.)
 - Supercharge PMs who uses it, and help them be more Strategic rather than day to day tasks.
 
@@ -269,15 +280,16 @@
 
 ---
 
-## Join the WhatsApp Group
-![inline](./Images/whatsapp.jpeg)
+# Whats Next
+- Introduction of OpenAI APIs Coming Week (Repeat, Global)
+- Content will be Shared on WhatsApp and Emails
+- Interested in Collaborating for Content?
+- Suggest New Topics to Pick (Product, AI, Side-Projects)
 
 ---
 
-# Whats Next
-- Introduction of OpenAI APIs Coming Week (Repeat, Global)
-- Interested in Collaborating for Content?
-- Suggest New Topics to Pick (Product, AI, Side-Projects)
+## Join the WhatsApp Group
+![inline](./Images/whatsapp.jpeg)
 
 ---
 
