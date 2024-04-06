@@ -1,3 +1,32 @@
+# AI Workflows for Product Managers
+### Be more efficient with your Time
+
+---
+
+# About
+
+- Who am I
+- Community (We're 1500+ Strong)
+
+---
+
+# Pro-Tip to Learn from Session
+
+- Don't focus on Prompts, but the Possibilities
+- Ask or Share anything you know in Chat
+- 👍 or 👎 during session as feedback
+
+---
+
+# Intro
+
+- Good as Starting Point for Work, will never replace humans.
+- The nature of work will change.
+- Improved productivity by 40%
+- Work won't reduce for Individuals, the quality of Output will Improve with better Efficiency (Time, Resources etc.)
+- Supercharge PMs who uses it, and help them be more Strategic rather than day to day tasks.
+
+---
 
 ## Analyzing Meeting Transcripts for Insights
 ### Attached is the Transcript of Meeting. Summarise key insights in bullet points, and mention if task is allocated to someone. Only mention important and actionable items.
@@ -6,245 +35,250 @@
 ---
 
 ## Minutes of Meetings from Unstructured Data
-### Create Minutes of Meeting from chat and transcript data
+### Create Minutes of Meetings in form of email mentioning actionable items and person who is responsible for each actionable. Present in form of bullet points.
 #### :c-02 (Day to Day)
 
 ---
 
 ## Summarise Long Email Chains
-### Summarize lengthy email threads into concise points
+### Catch me up in following mail chain in very short summary. Make the pointers that need my attention as Bold.
 #### :c-03 (Day to Day)
 
 ---
 
-## Generate Dummy CSV Data for Testing
-### Generate test CSV files with dummy data for analysis
+## Generate Dummy CSV Data for Demos
+### Give a downloadable CSV with 1 million records and following details...
 #### :c-04 (Day to Day)
 
 ---
 
-## Server Costing on AWS or Azure or Google Cloud
-### Estimate cloud server costs across AWS, Azure, Google Cloud
+## Server Costing on Cloud Providers
+### Attached is Server Configuration of Web Application to be Deployed. Based on your last cut-off knowledge, give the pricing estimates for all servers and totals.
 #### :c-05 (Day to Day)
 
 ---
 
 ## Structure the Unstructured Data
-### Organize unstructured data into structured format
+### Create a table from pasted unstructured data
 #### :c-06 (Day to Day)
 
 ---
 
-## Cleaning up of documentation to be in Readable Format
-### Refine documents for clarity and readability
+## Writing first Draft of Documentation
+### Help me write detailed API documentation with proper sections...
 #### :c-07 (Day to Day)
 
 ---
 
-## Analyse Google Analytics or Complex Data
-### Analyze complex data or Google Analytics reports
+## Insights from Google Analytics or Complex Data
+### Help me get high level insights from it by creating graphs...
 #### :c-08 (Day to Day)
 
 ---
 
 ## Generate Graphs from Data
-### Produce visual graphs from data sets
+### Help me produce a bar graph from dataset of books...
 #### :c-09 (Day to Day)
 
 ---
 
 ## Come up with Metrics for Team or Product
-### Identify key performance metrics for products or teams
+### Generate OKRs for product team working on B2C E-Commerce...
 #### :c-10 (Day to Day)
 
 ---
 
 ## Learning about new topic in Simple Words
-### Explain complex topics in simple, understandable language
+### I am tryiing to understand about <Topic>. Explain what it is ...
 #### :c-11 (Day to Day)
 
 ---
 
-## What can be done using Vision Capabilities (architecture flow)
-### Explain uses of vision capabilities in tech architecture
+## Using Vision Capabilities
+### Help me explain the attached architecture diagram
 #### :c-12 (Day to Day)
 
 ---
 
-## Podcast Summary, Article Summary
-### Provide concise summaries of podcasts or articles
+## Summarising Articles & Podcast before investing Time
+### Help me find most important takeways from ...
 #### :c-13 (Day to Day)
 
 ---
 
-## General Market Research to get a Broad Idea (earlier Google Search, or G2)
-### Perform broad market research on a topic
+## General Market Research to get a Broad Idea
+### Help me find companies in HRMS Software for Enterprises ...
 #### :c-14 (Research & Discovery)
 
 ---
 
-## Summarise RFPs to extract Product Feature Requests
-### Summarize RFPs for product feature request insights
+## Specific Market Research
+### Give top 5 Shortcomings of ...
 #### :c-15 (Research & Discovery)
 
 ---
 
-## Specific Market Research with Product Reviews of one of the Competitor (Positive and Negative)
-### Conduct detailed market research on competitor reviews
+## Summarise RFPs from Clients
+### From attached RFP, find out important features and list them in bullet points.
 #### :c-16 (Research & Discovery)
+
 
 ---
 
 ## Naming a new Feature or Product
-### Generate creative names for a new product or feature
+### Name a feature to Ideantify disengaged Users ...
 #### :c-17 (Research & Discovery)
 
 ---
 
-## Find gaps in PRD and be a critic
-### Critically analyze PRDs for any gaps or inconsistencies
+## Find gaps in PRD
+### You are CPO, critically analyse and ask questions ...
 #### :c-18 (Research & Discovery)
 
 ---
 
 ## SQL or JQL Queries
-### Write SQL or JQL queries for data analysis
+### Write SQL Query to find Total Posts by Author ...
 #### :c-19 (Research & Discovery)
 
 ---
 
-## Generate Ideas around XYZ Problem
-### Ideate solutions for a specific problem XYZ
+## Generate Ideas around Problem
+### I am trying to solve problem of Conversion Optimisation ...
 #### :c-20 (Research & Discovery)
 
 ---
 
 ## Pros & Cons of a Feature
-### Discuss the advantages and disadvantages of a feature
+### I am building a feature on Optimising Pages for Mobile ...
 #### :c-21 (Research & Discovery)
 
 ---
 
-## Removing Personal Bias, Consequences
-### Identify and remove personal bias in decision-making
+## Removing Personal Bias
+### Identify and remove personal bias in attached document I prepared for Feature X (no example)
 #### :c-22 (Research & Discovery)
 
 ---
 
 ## Why shouldn't we do XYZ
-### Explore reasons against pursuing a specific action XYZ
+### Explore reasons against pursuing a specific action XYZ (no example)
 #### :c-23 (Research & Discovery)
 
 ---
 
 ## Starting point for Strategy
-### Define a starting point or foundation for strategic planning
+### We are launching our Enterprise Loyalty Software for Hotel Industry. Help me plan Go to Market Strategy for its Launch over 1, 3 and 6 months respectively.
 #### :c-24 (Research & Discovery)
 
 ---
 
-## Spread out Ideas, remove bias towards a single thing
-### Broaden ideation and reduce single-point bias
-#### :c-25 (Research & Discovery)
-
----
-
 ## Release Notes of Competitors and Summarisation
-### Summarize competitors' release notes for quick insights
+### From attached release notes, find out the pattern in feature releases in past and expected releases for future.
 #### :c-26 (Research & Discovery)
 
 ---
 
 ## User Persona Generation
-### Create user personas for product design and marketing
+### Create user personas for Apple Vision Pro
 #### :c-27 (Research & Discovery)
 
 ---
 
 ## Customer Journey Map
-### Map out the customer journey for product interaction
+### Map out the customer journey for product interaction in Apple Vision Pro (no example)
 #### :c-28 (Research & Discovery)
 
 ---
 
 ## SWOT Analysis, Kano Model Analysis
-### Conduct SWOT or Kano model analysis for strategic insights
+### Conduct SWOT or Kano model analysis for strategic insights (no example)
 #### :c-29 (Research & Discovery)
 
 ---
 
 ## Regulatory Compliance of a Feature with GDPR
-### Assess GDPR compliance for a product feature
+### Assess GDPR compliance for a product feature (no example)
 #### :c-30 (Research & Discovery)
 
 ---
 
 ## Sentiment Analysis and Voice of Customer from dump of Feedback
-### Perform sentiment analysis on customer feedback
-#### :c-31 (Research & Discovery)
+### Perform sentiment analysis on customer feedback (no example)
+#### :c-31 (Research & Discovery)`
 
 ---
 
 ## Write Story or PRDs first Draft
-### Draft the first version of stories or PRDs for review
+### Draft the first version of stories or PRDs for review (no example)
 #### :c-32 (Delivery)
 
 ---
 
-## Analysis of Jira Tickets (Story Points and Efficiency)
-### Analyze Jira tickets for story point allocation and efficiency
+## Analysis of Jira Tickets
+### Find the Total Story Points, Efficiency of Team (GPT Example)
 #### :c-33 (Delivery)
 
 ---
 
-## Edge Cases Finding or Test Cases Finding
-### Identify edge or test cases for thorough QA
-#### :c-34 (Delivery)
-
----
-
 ## Translation of Full Excel File to another Language
-### Translate complete Excel files into a different language
+### Translate the attached excel to French and German Language and give output CSV
 #### :c-35 (Delivery)
 
 ---
 
 ## Transactional Email Copies
-### Create transactional email copies for various triggers
+### Give Content of Transactional Emails for Loyalty Software
 #### :c-36 (Delivery)
 
 ---
 
 ## Acceptance Criteria and Test Cases Generation
-### Generate clear acceptance criteria and test cases
+### Generate clear acceptance criteria by looking at Story Description Attached (no example)
 #### :c-37 (Delivery)
 
 ---
 
 ## UI Feedback Generator
-### Generate UI feedback for improvement and usability
+### By looking at attached Figma File, share critical feedback based on UI/UX Principles
 #### :c-38 (Delivery)
 
 ---
 
 ## Release Notes and Feature Release Notes
-### Craft release and feature notes for product updates
+### Craft release and feature notes looking at the Jira Release Items (no example)
 #### :c-39 (Go to Market)
 
 ---
 
 ## Get Feedback and Reviews Summarisation
-### Summarize feedback and reviews for actionable insights
+### Summarize feedback and reviews for actionable insights from attached dump (no example)
 #### :c-40 (Go to Market)
 
 ---
 
 ## Pricing Brainstorming
-### Brainstorm pricing strategies for products or services
+### Brainstorm pricing strategies for products or services (no example)
 #### :c-41 (Go to Market)
 
 ---
 
 ## Partnership Recommendation
-### Recommend potential strategic partnerships for growth
+### Recommend potential strategic partnerships for growth for Banks (no example)
 #### :c-42 (Go To Market)
+
+---
+
+## Join the WhatsApp Group
+![inline](./Images/whatsapp.jpeg)
+
+---
+
+# Whats Next
+- Introduction of OpenAI APIs Coming Week (Repeat, Global)
+- Interested in Collaborating for Content?
+- Suggest New Topics to Pick (Product, AI, Side-Projects)
+
+---
+
+# Thank You!

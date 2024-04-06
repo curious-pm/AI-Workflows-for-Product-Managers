@@ -1,0 +1,21 @@
+Sr No,Datacenter,Name,Description,CPU (Cores),Memory (Gb),Storage (Gb),Platform,OS,AWS Server Type
+1,AZ A,Master Node 1,K8s Master Node 1,2,4,50,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.large
+2,AZ A,Master Node 2,K8s Master Node 2,2,4,50,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.large
+3,AZ B,Master Node 3,K8s Master Node 3,2,4,50,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.large
+4,AZ A,Master Node 4,K8s Master Node 4,2,4,50,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.large
+5,AZ B,Master Node 5,K8s Master Node 5,2,4,50,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.large
+6,AZ A,Worker Node 1,K8s Worker Node 1,2,4,100,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.xlarge
+7,AZ A,Worker Node 2,K8s Worker Node 2,2,4,100,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.xlarge
+8,AZ B,Worker Node 3,K8s Worker Node 3,2,4,100,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.xlarge
+9,AZ B,Worker Node 4,K8s Worker Node 4,2,4,100,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.xlarge
+10,AZ A,Worker Node 5,K8s Worker Node 5,2,4,100,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.xlarge
+11,AZ A,Worker Node 6,K8s Worker Node 6,2,4,100,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.xlarge
+12,AZ B,Worker Node 7,K8s Worker Node 7,2,4,100,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.xlarge
+13,AZ B,Worker Node 8,K8s Worker Node 8,2,4,100,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.xlarge
+14,AZ A,Worker Node 9,K8s Worker Node 9,2,4,100,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.xlarge
+15,AZ A,Worker Node 10,K8s Worker Node 10,2,4,100,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.xlarge
+16,AZ B,Worker Node 11,K8s Worker Node 11,2,4,100,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.xlarge
+17,AZ B,Worker Node 12,K8s Worker Node 12,2,4,100,Linux,Ubuntu 20.04 or higher /RHEL 8 or higher,m5.xlarge
+18,AZ A,MSSQL 2019,Database MSSQL Primary,4,32,300,Windows,Windows server 2019 / SQL 2019,r5.large
+19,AZ B,MSSQL 2019,Database MSSQL Secondary,4,32,300,Windows,Windows server 2019 / SQL 2019,r5.large
+,,Total,,40,144,1950,,

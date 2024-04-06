@@ -1,0 +1,53 @@
+GET /api/members/{memberId}/details
+Authorization: Bearer {Your_Access_Token}
+
+{
+  "memberId": "123456", // Uniq ID of the membr
+  "firstName": "John", // First nme of the membr
+  "lastName": "Doe", // Last name
+  "email": "johndoe@example.com", // Email addr
+  "phone": "+1234567890", // Phn number w/ country code
+  "dob": "1980-01-01", // DOB, YYYY-MM-DD
+  "membershipTier": "Gold", // Mbrship tier, eg Bronze, Slvr, Gold, Plat
+  "joinDate": "2015-06-15", // Join date, YYYY-MM-DD
+  "pointsBalance": 5000, // Current pts balance
+  "transactions": [ // Array of tx objects
+    {
+      "transactionId": "T12345", // Uniq tx ID
+      "date": "2024-03-01", // Tx date, YYYY-MM-DD
+      "amount": 150.00, // Tx amount
+      "currency": "USD", // Curr code (ISO 4217)
+      "type": "purchase", // Tx type, eg pur, rtn, adj
+      "status": "completed" // Tx status, eg pend, comp, ref
+    },
+    {
+      "transactionId": "T12346", // Uniq tx ID
+      "date": "2024-03-02", // Tx date, YYYY-MM-DD
+      "amount": 75.25, // Tx amount
+      "currency": "USD", // Curr
+      "type": "return", // Tx type
+      "status": "completed" // Tx stat
+    },
+    {
+      "transactionId": "T12347", // Uniq tx ID
+      "date": "2024-03-05", // Tx date
+      "amount": 99.99, // Amount
+      "currency": "USD", // Curr
+      "type": "purchase", // Type
+      "status": "pending" // Stat
+    }
+    // More txs can be added hr
+  ],
+  "addresses": [ // Arr of addr objects
+    {
+      "type": "home", // Addr type, eg home, wrk
+      "street": "123 Main St", // Strt addr
+      "city": "Anytown", // City
+      "state": "Anystate", // State or region
+      "country": "USA", // Country
+      "zip": "12345" // Postal or zip
+    }
+    // More addr can be add hr
+  ],
+  "active": true // Mbrship status, true=active, fls=inelig or susp
+}
